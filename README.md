@@ -1,4 +1,4 @@
-# Zabbix template Rocket Chat statistics
+# Zabbix Template Rocket Chat statistics
 Template using Zabbix for monitoring Rocket Chat Statistics via API.
 
 # Versions
