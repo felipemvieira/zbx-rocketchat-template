@@ -10,6 +10,7 @@ Zabbix version> 4.2 because template is using HTTP agent and JSON Path.
 
 # Installation
 * Download Zabbix template
+  * https://github.com/felipemvieira/zbx-rocketchat-template/blob/master/Rocket_chat_template.xml
 * Import the template on Zabbix
 * Add a Rocket Chat user which contains permissions to view-statistics
 * Create a rocketchat api keypair
