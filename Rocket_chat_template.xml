@@ -54,7 +54,7 @@
                     <type>HTTP_AGENT</type>
                     <key>rocketchat-stats</key>
                     <delay>2m</delay>
-                    <history>0</history>
+                    <history>14d</history>
                     <trends>0</trends>
                     <value_type>TEXT</value_type>
                     <applications>
