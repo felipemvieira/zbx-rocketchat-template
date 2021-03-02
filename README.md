@@ -5,7 +5,7 @@ Template using Zabbix for monitoring Rocket Chat Statistics via API.
 I tested this using zabbix 4.4.10 and Rocket Chat 3.5.0, but maybe it works with different versions.
 
 # Requirements
-Zabbix version> 4.2 because template is using HTTP agent and JSON Path. 
+Zabbix version> 4.4 because template is using HTTP agent and JSON Path. 
 * If you need using it in late zabbix version, I recommend https://github.com/tristanlt/zabbix-rocketchat-stats
 
 # Installation
